@@ -2,11 +2,6 @@
 This repository contains Python code for a web scraper designed to extract data from YouTube. It leverages DrissionPage for browser automation and BeautifulSoup for parsing HTML content.
 ---
 
-
-# YouTube Video Scraper
-
-This repository contains a Python web scraper designed to extract information about YouTube videos. It utilizes `DrissionPage` for browser automation and `BeautifulSoup` for parsing HTML content.
-
 用于从 YouTube 抓取视频信息的 Python 网页爬虫。它利用 `DrissionPage` 进行浏览器自动化，并使用 `BeautifulSoup` 解析 HTML 内容。
 
 ## Features (功能)
